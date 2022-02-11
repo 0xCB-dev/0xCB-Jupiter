@@ -1754,11 +1754,6 @@
   (no_connect (at 45.72 255.27) (uuid 6c87e55f-437c-4a27-a289-fd0b45c96a4f))
   (no_connect (at 200.66 262.89) (uuid baf3facd-661e-40ff-b478-b89cfdeafd3e))
 
-  (bus_entry (at 207.645 -41.91) (size 2.54 2.54)
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 3325dcee-e044-4ae9-a82c-6bcc1829217a)
-  )
-
   (wire (pts (xy 232.41 52.07) (xy 257.81 52.07))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0008cb64-39ee-4daa-9a2a-21d73cf1fd42)
@@ -4416,7 +4411,7 @@
     (property "Value" "2U" (id 1) (at 335.28 118.745 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-VerticalStabilizers-NoLED" (id 2) (at 339.09 109.22 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedVerticalStabilizers-NoLED" (id 2) (at 339.09 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 339.09 109.22 0)
@@ -4507,7 +4502,7 @@
     (property "Value" "ISO ENTER" (id 1) (at 272.415 92.075 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-ISO-NoLED" (id 2) (at 274.32 82.55 0)
+    (property "Footprint" "MX_Only:MXOnly-ISO-ReversedStabilizers-NoLED" (id 2) (at 274.32 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 274.32 82.55 0)
@@ -4684,7 +4679,7 @@
     (property "Value" "2.25U" (id 1) (at 269.24 102.235 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2.25U-NoLED" (id 2) (at 266.7 93.98 0)
+    (property "Footprint" "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED" (id 2) (at 266.7 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 93.98 0)
@@ -4981,7 +4976,7 @@
     (property "Value" "2.25U" (id 1) (at 87.63 116.205 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2.25U-NoLED" (id 2) (at 85.09 107.95 0)
+    (property "Footprint" "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED" (id 2) (at 85.09 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 85.09 107.95 0)
@@ -5176,7 +5171,7 @@
     (property "Value" "2U" (id 1) (at 335.28 90.805 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-VerticalStabilizers-NoLED" (id 2) (at 339.09 81.28 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-ReversedVerticalStabilizers-NoLED" (id 2) (at 339.09 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 339.09 81.28 0)
@@ -5491,7 +5486,7 @@
     (property "Value" "6U SPACE" (id 1) (at 173.99 151.13 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-6U-NoLED" (id 2) (at 171.45 142.24 0)
+    (property "Footprint" "MX_Only:MXOnly-6U-ReversedStabilizers-NoLED" (id 2) (at 171.45 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 171.45 142.24 0)
@@ -6175,7 +6170,7 @@
     (property "Value" "6.25u SPACE" (id 1) (at 175.895 128.905 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-6.25U-NoLED" (id 2) (at 173.99 121.92 0)
+    (property "Footprint" "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" (id 2) (at 173.99 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 173.99 121.92 0)
@@ -8552,7 +8547,7 @@
     (property "Value" "7U SPACE" (id 1) (at 174.625 144.78 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "MX_Only:MXOnly-7U-NoLED" (id 2) (at 172.72 135.89 0)
+    (property "Footprint" "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED" (id 2) (at 172.72 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 172.72 135.89 0)
@@ -9753,10 +9748,10 @@
       (reference "SW60") (unit 1) (value "1U") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/2b191c2c-1167-46dd-8fa0-bd72c7ca26a5"
-      (reference "SW61") (unit 1) (value "2U") (footprint "MX_Only:MXOnly-2U-VerticalStabilizers-NoLED")
+      (reference "SW61") (unit 1) (value "2U") (footprint "MX_Only:MXOnly-2U-ReversedVerticalStabilizers-NoLED")
     )
     (path "/0a230cfb-8793-470f-a80a-242a8a103a1d"
-      (reference "SW62") (unit 1) (value "ISO ENTER") (footprint "MX_Only:MXOnly-ISO-NoLED")
+      (reference "SW62") (unit 1) (value "ISO ENTER") (footprint "MX_Only:MXOnly-ISO-ReversedStabilizers-NoLED")
     )
     (path "/1bff9b0c-815d-4638-9245-2e23157e575b"
       (reference "SW63") (unit 1) (value "CAPSLOCK") (footprint "MX_Only:MXOnly-1.75U-NoLED")
@@ -9795,7 +9790,7 @@
       (reference "SW74") (unit 1) (value "1U") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/140f8e65-10c9-4167-a031-edff93ac62c5"
-      (reference "SW75") (unit 1) (value "2.25U") (footprint "MX_Only:MXOnly-2.25U-NoLED")
+      (reference "SW75") (unit 1) (value "2.25U") (footprint "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED")
     )
     (path "/1c59a2fc-2e4a-4038-8c07-08e6e2cee30d"
       (reference "SW76") (unit 1) (value "1U") (footprint "MX_Only:MXOnly-1U-NoLED")
@@ -9816,7 +9811,7 @@
       (reference "SW81") (unit 1) (value "ISO 1U") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/234835dd-0a94-4a66-ba5a-63df4a898804"
-      (reference "SW82") (unit 1) (value "2.25U") (footprint "MX_Only:MXOnly-2.25U-NoLED")
+      (reference "SW82") (unit 1) (value "2.25U") (footprint "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED")
     )
     (path "/b9f2f4af-d52e-46dc-a152-d7e3d3b385f7"
       (reference "SW83") (unit 1) (value "1U") (footprint "MX_Only:MXOnly-1U-NoLED")
@@ -9873,7 +9868,7 @@
       (reference "SW100") (unit 1) (value "ISO SHIFT") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/03681980-a6c5-4231-b7d5-b4a4c9252c6e"
-      (reference "SW101") (unit 1) (value "2U") (footprint "MX_Only:MXOnly-2U-VerticalStabilizers-NoLED")
+      (reference "SW101") (unit 1) (value "2U") (footprint "MX_Only:MXOnly-2U-ReversedVerticalStabilizers-NoLED")
     )
     (path "/544d55a0-6b4c-4ad8-81fd-694d0fa9dace"
       (reference "SW102") (unit 1) (value "1.25U CTRL") (footprint "MX_Only:MXOnly-1.25U-NoLED")
@@ -9885,7 +9880,7 @@
       (reference "SW104") (unit 1) (value "1.25U ALT") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/63485bc8-3e20-4245-9f8d-3d159167a3f2"
-      (reference "SW105") (unit 1) (value "6.25u SPACE") (footprint "MX_Only:MXOnly-6.25U-NoLED")
+      (reference "SW105") (unit 1) (value "6.25u SPACE") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
     )
     (path "/be2727b2-cae7-4411-8bf6-0e1007259dbb"
       (reference "SW106") (unit 1) (value "1U ALT") (footprint "MX_Only:MXOnly-1U-NoLED")
@@ -9924,7 +9919,7 @@
       (reference "SW117") (unit 1) (value "1.5U ALT") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
     (path "/dcb31f0c-7e8f-4c36-97ce-35aab54b5477"
-      (reference "SW118") (unit 1) (value "7U SPACE") (footprint "MX_Only:MXOnly-7U-NoLED")
+      (reference "SW118") (unit 1) (value "7U SPACE") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
     )
     (path "/d2d4d20d-7cac-43ba-a941-57dd1c25ddb5"
       (reference "SW119") (unit 1) (value "1.5U ALT") (footprint "MX_Only:MXOnly-1.5U-NoLED")
@@ -9936,7 +9931,7 @@
       (reference "SW121") (unit 1) (value "1.5U GUI") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
     (path "/3d5d0f67-24dd-4ec0-a75c-164b57b95844"
-      (reference "SW122") (unit 1) (value "6U SPACE") (footprint "MX_Only:MXOnly-6U-NoLED")
+      (reference "SW122") (unit 1) (value "6U SPACE") (footprint "MX_Only:MXOnly-6U-ReversedStabilizers-NoLED")
     )
     (path "/fabae21c-0bf5-41e1-92c8-b0440c8cdf3c"
       (reference "SW123") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
