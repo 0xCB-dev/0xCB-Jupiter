@@ -6308,7 +6308,7 @@
     (property "Value" "4.7u" (id 1) (at 52.07 269.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" (id 2) (at 54.61 265.43 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H7.0mm_P1.50mm" (id 2) (at 54.61 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 265.43 0)
@@ -9301,7 +9301,7 @@
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
     (path "/6691c87e-3d84-4222-a7d7-acc9c435d885"
-      (reference "C1") (unit 1) (value "4.7u") (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+      (reference "C1") (unit 1) (value "4.7u") (footprint "Capacitor_THT:C_Radial_D4.0mm_H7.0mm_P1.50mm")
     )
     (path "/0e3fa89d-d6e0-42c7-8c23-b39947577907"
       (reference "C2") (unit 1) (value "0.1u") (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
