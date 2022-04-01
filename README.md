@@ -1,2 +1,4 @@
-# firetruck-keyboard
- An 1800 THT keyboard kit
+# Firetruck
+## An 1800-sized keyboard with various layout options
+
+To be continued.
