@@ -1,4 +1,4 @@
-# Firetruck
-## An 1800-sized keyboard with various layout options
+# Jupiter
+## An 1800-sized through-hole keyboard with various layout options
 
 To be continued.
