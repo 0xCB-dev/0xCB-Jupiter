@@ -5638,7 +5638,7 @@
     (property "Value" "6U SPACE" (id 1) (at 173.99 151.13 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.00u" (id 2) (at 171.45 142.24 0)
+    (property "Footprint" "0xcb:SW_Cherry_MX_PCB_6.00u" (id 2) (at 171.45 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 171.45 142.24 0)
@@ -8914,7 +8914,7 @@
     (property "Value" "6U OFF SPACE" (id 1) (at 175.26 158.115 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.00u_Offset" (id 2) (at 172.72 149.225 0)
+    (property "Footprint" "0xcb:SW_Cherry_MX_PCB_6.00u_offset" (id 2) (at 172.72 149.225 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 172.72 149.225 0)
@@ -10100,10 +10100,10 @@
       (reference "SW121") (unit 1) (value "1.5U GUI") (footprint "0xcb:SW_Cherry_MX_PCB_1.50u")
     )
     (path "/3d5d0f67-24dd-4ec0-a75c-164b57b95844"
-      (reference "SW122") (unit 1) (value "6U SPACE") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.00u")
+      (reference "SW122") (unit 1) (value "6U SPACE") (footprint "0xcb:SW_Cherry_MX_PCB_6.00u")
     )
     (path "/e6f7b6bb-e3ac-4fda-9477-f92398fc552a"
-      (reference "SW123") (unit 1) (value "6U OFF SPACE") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.00u_Offset")
+      (reference "SW123") (unit 1) (value "6U OFF SPACE") (footprint "0xcb:SW_Cherry_MX_PCB_6.00u_offset")
     )
     (path "/fabae21c-0bf5-41e1-92c8-b0440c8cdf3c"
       (reference "SW124") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
