@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name "BlackPill-STM32F401-temp")(type "KiCad")(uri "${KIPRJMOD}/BlackPill-STM32F401-temp")(options "")(descr ""))
 )
