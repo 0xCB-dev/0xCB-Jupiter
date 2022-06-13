@@ -1,4 +1,4 @@
-20533983950158932
+20540864836215530
 0xcb
 0xCB
 
@@ -49,6 +49,13 @@ AVR Programmer 6 pogo pin 2.54 mm spacing
 6
 6
 0xcb
+BlackPillSTM32F401CCU6
+Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
+module BlackPill weact STM32F401
+0
+40
+40
+0xcb
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
 SMD SMT crystal reduced paste
@@ -98,12 +105,12 @@ GCT_USB4120-03-C_REVA
 20
 20
 0xcb
-HRO-TYPE-C-31-M-13
+HS-F
 
 
 0
-20
-20
+0
+0
 0xcb
 JST-SR-4
 
@@ -206,6 +213,20 @@ Cherry MX Keyboard Keyswitch Switch PCB 2.75u
 SW_Cherry_MX_PCB_3.00u
 Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
 Cherry MX Keyboard Keyswitch Switch PCB 3.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_6.00u_offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u offset
 0
 2
 2
@@ -350,23 +371,23 @@ D_SOD-123F
 2
 2
 0xcb
-TYPE-C-31-M-12
+USB_C_Receptacle_HRO-TYPE-C-31-M-13
 
 
 0
-16
-14
+20
+20
 0xcb
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
+
+
 0
 20
 20
 0xcb
 USB_C_Receptacle_HRO_TYPE-C-31-M-31
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
+
+
 0
 20
 20
@@ -713,6 +734,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BlackPill-STM32F401-temp
+BlackPillSTM32F401CCU6
+Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
+module BlackPill weact STM32F401
+0
+40
+40
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
